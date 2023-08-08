@@ -1,7 +1,7 @@
 ---
-name: Joyanta Jyoti Mondal
-role: Teaching Assistant
-email: mjoyanta.cs@gmail.com
+name: Md. Farhadul Islam
+role: Research Assistant
+email: farhadul.islam@bracu.ac.bd
 website: https://lepotatoguy.github.io/
 photo: jj-pic.jpg
 office-hours: "TBA"

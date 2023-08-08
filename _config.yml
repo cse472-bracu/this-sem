@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSE484
-tagline: CSE484 - Cloud Computing
-description: Cloud Computing, Openstack Swift, Docker.
+title: CSE472
+tagline: CSE472 - Human Computer Interaction
+description: Human Computer Interaction.
 author: Jannatun Noor
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 markdown: kramdown
 logo: "/assets/images/bracu_logo.png"
 favicon_ico: "/assets/images/bracu_logo.ico"
 
-url: https://CSE484-bracu.github.io/
+url: https://cse472-bracu.github.io/
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
